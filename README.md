@@ -2,6 +2,8 @@
 
 An interactive web-based game designed to help students practice identifying the **main logical operator** in symbolic logic formulas. The game focuses on understanding **operator scope**, **grouping symbols**, and **well-formed formulas (WFFs)** through increasing levels of difficulty.
 
+Play Here: https://yaritzay27.github.io/Symbolic-Logic-Game/
+
 ---
 
 ## Purpose
